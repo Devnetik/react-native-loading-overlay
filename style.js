@@ -6,6 +6,7 @@ import React, {Component} from 'react';
 import {StyleSheet} from 'react-native';
 
 export default StyleSheet.create({
+
 	background: {
 		position       : 'absolute',
 		top            : 0,
@@ -14,7 +15,8 @@ export default StyleSheet.create({
 		right          : 0,
 		flex           : 1,
 		justifyContent : 'center',
-		alignItems     : 'center'
+		alignItems     : 'center',
+		backgroundColor: 'rgba(0,0,0,0.7)'
 	},
 	text      : {
 		color    : 'white',
