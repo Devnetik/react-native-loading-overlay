@@ -1,7 +1,7 @@
 {
   "name": "react-native-loading-overlay",
   "version": "1.0.0",
-  "description": "",
+  "description": "Darkens the screen and shows a loading animation with some text below",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
     "overlay"
   ],
   "author": "Michael Malura <maluramichael@googlemail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devnetik/react-native-loading-overlay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Devnetik/react-native-loading-overlay/issues"
+  },
+  "homepage": "https://github.com/Devnetik/react-native-loading-overlay#readme"
 }
