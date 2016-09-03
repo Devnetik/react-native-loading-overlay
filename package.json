@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading-overlay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Darkens the screen and shows a loading animation with some text below",
   "main": "index.js",
   "scripts": {
