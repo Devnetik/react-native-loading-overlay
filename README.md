@@ -1,8 +1,8 @@
 # Loading overlay
 
-[![npm](https://img.shields.io/npm/dm/react-native-loading-overlay.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-slide-view)
-[![npm](https://img.shields.io/npm/v/react-native-loading-overlay.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-slide-view)
-[![Beerpay](https://beerpay.io/Devnetik/react-native-loading-overlay/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-slide-view)
+[![npm](https://img.shields.io/npm/dm/react-native-loading-overlay.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-loading-overlay)
+[![npm](https://img.shields.io/npm/v/react-native-loading-overlay.svg?maxAge=2592000)](https://www.npmjs.com/package/react-native-loading-overlay)
+[![Beerpay](https://beerpay.io/Devnetik/react-native-loading-overlay/badge.svg?style=flat)](https://beerpay.io/Devnetik/react-native-loading-overlay)
 
 ## Getting started
 ```sh
