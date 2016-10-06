@@ -1,10 +1,10 @@
 {
   "name": "react-native-loading-overlay",
   "version": "1.0.1",
-  "description": "Darkens the screen and shows a loading animation with some text below",
+  "description": "Stops the user from messing with the ui while the app is loading data",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [
     "react-native",
@@ -12,13 +12,29 @@
     "overlay"
   ],
   "author": "Michael Malura <maluramichael@googlemail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Devnetik/react-native-loading-overlay.git"
   },
   "bugs": {
     "url": "https://github.com/Devnetik/react-native-loading-overlay/issues"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "peerDependencies": {
+    "react": "^15.3.1",
+    "react-native": "^0.34.1"
+  },
+  "devDependencies": {
+    "react": "^15.3.1",
+    "react-native": "^0.34.1",
+    "babel-jest": "^16.0.0",
+    "babel-preset-react-native": "^1.9.0",
+    "jest": "^16.0.1",
+    "jest-react-native": "^16.0.0",
+    "react-test-renderer": "^15.3.1"
   },
   "homepage": "https://github.com/Devnetik/react-native-loading-overlay#readme"
 }
