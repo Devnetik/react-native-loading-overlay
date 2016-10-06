@@ -1,6 +1,6 @@
 {
   "name": "react-native-loading-overlay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stops the user from messing with the ui while the app is loading data",
   "main": "index.js",
   "scripts": {
